@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: refile_mongoid_test
+      hosts:
+        - localhost:27017
