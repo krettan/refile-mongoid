@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'refile-mongoid', git: 'git@github.com:krettan/refile-mongoid.git'
+gem 'refile-mongoid'
 ```
 
 ## Usage
