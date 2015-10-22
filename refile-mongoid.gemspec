@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.require_path  = "lib"
 
   gem.add_dependency "refile", "~> 0.5"
-  gem.add_dependency 'mongoid', '~> 4.0'
+  gem.add_dependency 'mongoid', '>= 4.0'
 
   gem.add_development_dependency "rake", "~> 10.0"
   gem.add_development_dependency "rspec", "~> 3.1"
